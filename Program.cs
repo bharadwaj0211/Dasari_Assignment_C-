@@ -49,12 +49,14 @@ namespace p1
                  var k=Console.ReadLine();
                   var p = Convert.ToDecimal(k);
                  Console.WriteLine($"Cost of fule per km is {p*costPerKm}.");
+                 Console.WriteLine("Thank you !");
                  break;
 
                  case 'p' : Console.WriteLine("Enter no of miles");
                  var l = Console.ReadLine();
                  var m = Convert.ToDecimal(l);
                  Console.WriteLine($"Cost of fuel per mile is {m*costPerMile}.");
+                 Console.WriteLine("Thank You !");
                  break;
 
                  default: 
