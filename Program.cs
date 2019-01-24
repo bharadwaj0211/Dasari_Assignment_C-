@@ -40,7 +40,7 @@ namespace p1
 
             }
             while(b){
-             Console.WriteLine("Enter 'c' for cost of fuel per km, 'p' for cost of fuel per mile");
+             Console.WriteLine("Enter 'c' for cost of fuel per km, 'p' for cost of fuel per mile, any other key to quit.");
              var s=Console.ReadLine();
              ch = Convert.ToChar(s);
               switch (ch)
