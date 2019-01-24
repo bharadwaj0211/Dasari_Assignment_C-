@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s531366\\Documents\\44663\\p1\\p1.csproj",
+      "projectUniqueName": "C:\\Users\\s531366\\Documents\\44663\\Dasari_Assignment_C-\\p1.csproj",
       "projectName": "p1",
-      "projectPath": "C:\\Users\\s531366\\Documents\\44663\\p1\\p1.csproj",
+      "projectPath": "C:\\Users\\s531366\\Documents\\44663\\Dasari_Assignment_C-\\p1.csproj",
       "packagesPath": "C:\\Users\\s531366\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s531366\\Documents\\44663\\p1\\obj\\",
+      "outputPath": "C:\\Users\\s531366\\Documents\\44663\\Dasari_Assignment_C-\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

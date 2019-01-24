@@ -18,7 +18,7 @@ namespace p1
             while (con==""){
                 
             Console.WriteLine($"\n{i}.Press 'miles' for kilometers to miles conversion.\n");
-            Console.WriteLine($"{i+1}.Press 'km' for miles to kilometers conversion.");
+            Console.WriteLine($"{i+1}.Press 'km' for miles to kilometers conversion.\n");
             con = Console.ReadLine();
 
             if(con == "miles"){
